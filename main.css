@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #2a5c54;
+}
+.one{
+    color: #ffffff;
+    font-size: 64px;
+    width: 636px;
+    background: rgb(49, 19, 19);
+text-align: center;
+margin: 32px auto;
+padding: 24px 0;
+}
+.two{
+    box-sizing: border-box;
+border: 10px solid rgb(255, 6, 6);
+background: rgb(0, 0, 0);
+    width: 1000px;
+    height: 638px;
+    margin: 0 auto;
+}
+.three{
+    width: 896px;
+    height: 259px;
+    background: rgb(31, 232, 183);
+    padding: 54px 40px;
+    margin: 45px 52px;
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: justify;
+}
